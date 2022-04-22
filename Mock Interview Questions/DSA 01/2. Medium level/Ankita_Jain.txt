@@ -1,0 +1,5 @@
+1. Implement Quick Sort.
+Time complexity of Quick Sort.
+
+2.Implement 2-Sum problem. (Hashing)
+Time complexity of above problem.

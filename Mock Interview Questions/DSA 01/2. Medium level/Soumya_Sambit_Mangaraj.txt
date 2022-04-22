@@ -1,0 +1,4 @@
+1. Check Palindrome in a string
+2. Quick Sort
+3. Merge Sort
+4. Remove duplicates from a string

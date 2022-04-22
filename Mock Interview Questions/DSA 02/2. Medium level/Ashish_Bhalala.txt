@@ -1,0 +1,5 @@
+1. what is difference between array and linked list.
+2. example when to use linked list or array/array list.
+3. advantages and disadv of Linked list.
+4. https://leetcode.com/problems/search-in-rotated-sorted-array/
+5. https://leetcode.com/problems/reverse-linked-list-ii/

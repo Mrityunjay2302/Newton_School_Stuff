@@ -1,0 +1,2 @@
+1. merge sort 
+2. max sum sub-array 

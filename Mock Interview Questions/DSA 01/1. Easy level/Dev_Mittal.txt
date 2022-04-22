@@ -1,0 +1,2 @@
+1. Selection sort.
+2. First and second highest element in an array.

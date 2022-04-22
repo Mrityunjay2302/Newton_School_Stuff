@@ -1,0 +1,2 @@
+1. BInary Search implementation. Discuss time complexity.
+2. Bubble sort. Discuss time complexity.

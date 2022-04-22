@@ -1,0 +1,2 @@
+1. Find min common prefix
+2. Sort a linkedlist

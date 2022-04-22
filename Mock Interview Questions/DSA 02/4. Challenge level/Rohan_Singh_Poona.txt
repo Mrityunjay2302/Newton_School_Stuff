@@ -1,0 +1,4 @@
+1- Advantages of using LinkedList over arrays?
+2- What is the time complexity of insertion of element in LinkedList?
+3- Given a Linked List check if the LinkedList contains a loop or not?
+4- If yes return the starting node of the loop?? 

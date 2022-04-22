@@ -1,0 +1,8 @@
+1. What is DP  
+2. What is the use of DP 
+
+3. [Easy] : Min Cost Climbing Stairs
+https://leetcode.com/problems/min-cost-climbing-stairs/
+
+4. [Easy] :  Diameter of Binary Tree
+https://leetcode.com/problems/diameter-of-binary-tree/

@@ -1,0 +1,5 @@
+1. Explain quick sort.
+2. Write the code for quicksort and explain its time complexity.
+3. Given an array of random integers, find the 2nd largest element in it.
+4. Write the code for the above algorithm.
+5. Explain the Binary search algorithm.

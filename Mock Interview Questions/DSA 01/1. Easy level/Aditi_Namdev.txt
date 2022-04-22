@@ -1,0 +1,24 @@
+1- Introduction
+2- The disadvantage of the array.
+3- Find whether an array is a subset of another array
+Input: arr1[] = {10, 5, 2, 23, 19}, arr2[] = {19, 5, 3} 
+4- Why Sorting algorithms are important?
+5- Explain how Bubble Sort works?
+6- Complexity Analysis
+7- Print all subarrays with 0 sum
+arr = [6, 3, -1, -3, 4, -2, 2,
+             4, 6, -12, -7]
+8- Can you implement a Binary Search Algorithm?
+9- Output based question.
+class ArrayOutput
+{
+    public static void main(String s[])
+    {
+        int i[] = {12, 15, 16, 17, 19};
+
+        for(int i = 0; i < 5; i++)
+        {
+            System.out.println(i[i]);
+        }
+    }
+}

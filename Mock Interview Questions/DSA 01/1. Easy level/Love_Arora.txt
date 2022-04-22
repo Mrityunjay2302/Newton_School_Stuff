@@ -1,0 +1,17 @@
+1. What are 2 disadvantages of an array? 
+2. Is insertion and deletion is easy in arrays? If 10 elements are in array and you have to insert next element in 5th index how you can do that? 
+3. Arrays is linear or non linear data structure? 
+4. Difference between Quick Sort and Merge Sort? Which one is better and why? 
+5. What is Time Complexity of Quick Sort and Merge Sort in worst case? 
+6. Implement an algorithm to check if the second string is the valid rotation of the first string? 
+S1: ABCD 
+S2: CDAB 
+Output: true 
+
+S1: ABCD 
+S2: DCAB 
+Output: false 
+
+S1: ABCD 
+S2: DABC 
+Output: true 

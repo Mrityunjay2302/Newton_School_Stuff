@@ -1,0 +1,8 @@
+1- write a code for Fibonacci series 
+2- write code code to print number of times each character occur in a string 
+3- Shift all zeros in a array to right
+4- Write a code swap two words
+eg: "Hello World" O/p - "World Hello"
+
+5- Find the Kth largest element in a array.
+6- Create a function that returns the index of elements whose sum are equal to the target number.

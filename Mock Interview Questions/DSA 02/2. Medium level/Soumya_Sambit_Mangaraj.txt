@@ -1,0 +1,2 @@
+1. Middle element in linkedlist
+2. Find an element in sorted rotated array

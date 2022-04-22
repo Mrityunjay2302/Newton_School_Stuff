@@ -1,0 +1,5 @@
+1. Find Missing number
+2. Find Missing and repeating number
+3. Find missing number from array.
+4. Find missing and repeating number.
+5. Find sum of 3 element pairs

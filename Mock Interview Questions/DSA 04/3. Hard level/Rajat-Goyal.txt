@@ -1,0 +1,2 @@
+1. level order traversal 
+2. DFS 

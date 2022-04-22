@@ -1,0 +1,15 @@
+1- What is Array
+2- Advantages of Array 
+3- Disadvantages of Array
+4- What is Data type in data structure
+5- WHat is loop?Different types of loops  
+6- What is difference between Linear & Non Linear data structure? Give few examples?
+7- Is Array is a linear data structure? 
+8- What is a multidimensional array?
+9- Implementation of multidimensional array
+10- Nested for loop
+11- Can you tell me the differences between Array and Linked list?
+12- Wrie a program to reverse an array 
+13- Sort an array using selection sort algorithm
+14- What are different sorting algorithm. Comparison of them
+15- Time complexity

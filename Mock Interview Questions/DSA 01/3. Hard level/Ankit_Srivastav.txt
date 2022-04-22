@@ -1,0 +1,1 @@
+Leaders in an array - Given a array containing random numbers , print the number if the number is greater than all the other numbers to the right side of it.

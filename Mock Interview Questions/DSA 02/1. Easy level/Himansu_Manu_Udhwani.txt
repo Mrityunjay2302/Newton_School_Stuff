@@ -1,0 +1,10 @@
+1- What is Linked list whats purpose of it
+2- Advantages and disadvantages of Linked list
+3- Difference between singly and doubly Linked list
+4- What is difference between Array and linked List
+5- What is purpose of searching algorithms Difference between linear and binary search
+6- What is condition required for binary algorithm
+---------- Coding Question asked ----------
+a.) Code to reverse a Linked List
+b.) To check whether the element k is available in an array (binary search)
+- Time complexity

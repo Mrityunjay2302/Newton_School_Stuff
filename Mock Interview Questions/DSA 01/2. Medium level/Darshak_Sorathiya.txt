@@ -1,0 +1,13 @@
+1. What are data structures?
+2. What are algorithms?
+3. Diff between data structure and algorithms?
+4. What is an array?
+5. Difference between array and arraylist
+6. diff btw linear search and binary search.
+7. The time complexity of linear search and binary search.
+
+8. WAP for sorting array using quick sort.
+
+9. https://leetcode.com/problems/container-with-most-water/
+
+10. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
